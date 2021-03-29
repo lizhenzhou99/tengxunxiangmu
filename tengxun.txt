@@ -1,3 +1,26 @@
-1.添加联系人  聊天
-2.摇一摇
-3.支付
+1.0版本           上线聊天以及通讯录的功能！      代码如下
+data: {unfollow_unread: 0, follow_unread: 0, _gt_: 0}
+follow_unread: 0
+unfollow_unread: 0
+_gt_: 0
+message: "ok"
+msg: "ok"
+
+
+
+2.0版本           上线摇一摇的功能！     代码如下
+data: {unfollow_unread: 0, follow_unread: 0, _gt_: 0}
+follow_unread: 0
+unfollow_unread: 0
+_gt_: 0
+message: "ok"
+msg: "ok"
+
+
+3.0版本           上线支付以及发红包的功能！     代码如下
+data: {unfollow_unread: 0, follow_unread: 0, _gt_: 0}
+follow_unread: 0
+unfollow_unread: 0
+_gt_: 0
+message: "ok"
+msg: "ok"
